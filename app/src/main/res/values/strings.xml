@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyNameCard</string>
+    <string name="a1">情報工学科２年</string>
+    <string name="gakuseki">1601029</string>
+    <string name="myname">和田海斗</string>
+    <string name="bangou">080-0000-0000</string>
+    <string name="nic">ニックネーム</string>
+</resources>
